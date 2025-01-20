@@ -1,0 +1,2 @@
+sudo eject /media/robast/USB_Drive
+than you can remove the drive
